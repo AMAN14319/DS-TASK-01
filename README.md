@@ -1,2 +1,3 @@
-<img width="1920" height="1200" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/97265583-f805-4fa2-b21f-b858c2b1e858" />
+<img width="1826" height="992" alt="Screenshot 2025-07-12 142723" src="https://github.com/user-attachments/assets/653ec44d-ccd7-4381-849e-5c3b976a66d7" />
+
 # PRODIGY DS-TASK-01
